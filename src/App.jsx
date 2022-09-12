@@ -1,4 +1,3 @@
-import "./App.scss";
 import {
   Footer,
   Blog,
@@ -9,6 +8,7 @@ import {
 } from "./containers";
 import { Cta, Brand, Navbar } from "./components";
 
+import "./App.scss";
 const App = () => {
   return (
     <div className='App'>
