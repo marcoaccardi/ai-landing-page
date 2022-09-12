@@ -1,5 +1,5 @@
 import React from "react";
-import "./features.scss";
+import "./features.css";
 
 function Features() {
   return <div>Features</div>;

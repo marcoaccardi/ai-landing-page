@@ -8,7 +8,7 @@ import {
 } from "./containers";
 import { Cta, Brand, Navbar } from "./components";
 
-import "./App.scss";
+import "./App.css";
 const App = () => {
   return (
     <div className='App'>

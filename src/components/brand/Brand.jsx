@@ -1,5 +1,5 @@
 import React from "react";
-import "./brand.scss";
+import "./brand.css";
 
 const Brand = () => {
   return <div>Brand</div>;
