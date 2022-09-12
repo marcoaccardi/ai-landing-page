@@ -7,9 +7,9 @@ import {
   WhatGPT3,
   Header,
 } from "./containers";
-
 import { Cta, Brand, Navbar } from "./components";
-function App() {
+
+const App = () => {
   return (
     <div className='App'>
       <div className='gradient__bg'>
@@ -25,6 +25,6 @@ function App() {
       <Footer />
     </div>
   );
-}
+};
 
 export default App;
